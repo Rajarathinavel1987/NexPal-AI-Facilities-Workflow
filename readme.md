@@ -97,25 +97,31 @@ Ticket Resolution & Closure
 
 ## 🖥️ Employee Helpdesk Interface
 
-![Employee Helpdesk](Screenshots/1.png)
+<img src="Screenshots/1.png" width="900"/>
 
 ---
 
 ## 📲 WhatsApp Ticket Notification
 
-![WhatsApp Alert](Screenshots/5.png)
+<img src="Screenshots/4.jpeg" width="400"/>
 
 ---
 
 ## 📊 Admin Dashboard
 
-![Dashboard](Screenshots/8.png)
+<img src="Screenshots/6.png" width="900"/>
 
 ---
 
 ## 📦 Inventory & Vendor Management
 
-![Inventory](Screenshots/10.png)
+<img src="Screenshots/9.png" width="900"/>
+
+---
+
+## 🤝 Vendor AMC Tracking
+
+<img src="Screenshots/10.png" width="900"/>
 
 ---
 
