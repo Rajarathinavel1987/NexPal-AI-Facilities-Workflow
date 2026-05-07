@@ -90,8 +90,6 @@ SLA Breach Escalation (if overdue)
         ↓
 Ticket Resolution & Closure
 
----
-
 # 📸 System Screenshots
 
 ## 🖥️ Employee Helpdesk Interface
