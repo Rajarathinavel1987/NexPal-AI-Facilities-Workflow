@@ -89,3 +89,52 @@ Real-Time Dashboard Monitoring
 SLA Breach Escalation (if overdue)
         ↓
 Ticket Resolution & Closure
+
+---
+
+# 📸 System Screenshots
+
+## 🖥️ Employee Helpdesk Interface
+
+![Employee Helpdesk](Screenshots/1.png)
+
+---
+
+## 📲 WhatsApp Ticket Notification
+
+![WhatsApp Alert](Screenshots/5.png)
+
+---
+
+## 📊 Admin Dashboard
+
+![Dashboard](Screenshots/8.png)
+
+---
+
+## 📦 Inventory & Vendor Management
+
+![Inventory](Screenshots/10.png)
+
+---
+
+# ⚙️ Technology Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend UI | Streamlit |
+| Backend | Python |
+| Database | SQLite |
+| AI Engine | OpenAI GPT-4o |
+| Messaging | Twilio WhatsApp API |
+| Visualization | Plotly |
+| Data Processing | Pandas |
+
+---
+
+# 🚀 Installation & Execution
+
+## 1️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
