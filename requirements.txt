@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+openai
+plotly
+twilio
